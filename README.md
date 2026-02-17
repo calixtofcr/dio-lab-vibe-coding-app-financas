@@ -73,13 +73,56 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
+- Seu **prompt final** (PRD);
+
+Contexto
+Queremos criar um aplicativo de organização financeira pessoal que funcione por meio de conversas. Em vez de formulários complicados ou planilhas, o usuário simplesmente conversa com o app para registrar seus gastos e receber dicas.
+
+Problema
+Muitas pessoas desistem de controlar suas finanças porque os aplicativos atuais pedem muita entrada manual. Há pouca personalização na experiência. Nosso objetivo é resolver isso com uma experiência simples e natural, baseada em diálogo e recomendações automáticas.
+
+Público-Alvo
+Pessoas que querem começar a organizar suas finanças sem complicação.
+
+Principalmente iniciantes, que nunca usaram planilhas ou apps complexos.
+
+Funcionalidades-Chave
+Registrar gastos via conversa: o usuário escreve “Gastei R$ 50 no mercado” e o app entende.
+
+Classificação automática: o app organiza os gastos em categorias (alimentação, transporte, lazer, moradia, estudo, saúde, educação). Permite criar novas categorias adequando a necessidade do usuário
+
+Metas financeiras: o usuário define objetivos simples, como “gastar menos em delivery”.
+
+Agente Financeiro: personagem que dá dicas práticas de economia.
+
+Relatórios simples: gráficos e resumos fáceis de entender, sem jargões técnicos.
+
+Entregável da IA (MVP)
+O primeiro protótipo deve incluir:
+
+Principais telas: boas-vindas, chat, metas, relatórios.
+
+Recursos essenciais: NLP para entender mensagens, banco de dados para guardar gastos, motor de dicas.
+
+Validação inicial: testar com um grupo pequeno de usuários e medir engajamento.
+
+Tom e Linguagem
+Educativo: explicar conceitos financeiros de forma clara. Acessível: evitar termos técnicos complicados. Amigável: usar um tom de conversa, como se fosse um amigo ajudando.
+
+- Prints ou pequenos vídeos das interações com a IA;
+ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/862cea9b-fd04-47cb-96d0-d3f45d652281" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/da7eec6a-7a0a-4c54-b274-685a43582b9c" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b94ce243-ab3f-4622-9d54-8d36c546a2c3" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0c7bf2bf-a62f-4346-bbe0-4bd970f5afa1" />
+
+- Um resumo do que o seu **App de Finanças Pessoais** faz;
+
+ O app é uma interessante ferramenta de controle financeiro que interage com a IA no lançamento de entradas e saídas. Diferente de lançamentos frios em tabelas, os mesmos são interativos e após análise,  a IA sugere alternativas aos gastos e investimentos. A possibilidade de criação ou adaptação das categorias, a criação de metaa e relatórios didáticos trás um diferencial ao projeto. 
+   
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+  - O que funcionou bem?  Foi muito intuitivo e de grande aprendizado dialogar com as IAs e a criação do app me surpreendeu.
+  - O que não funcionou como o esperado?  Como estou aprendendo criar prompts mais objetivos, precisei usar créditos do lovable para incluir melhorias e compreender melhor o app. 
+  - O que aprendeu sobre conversar com IAs? Reconheço que as IAs avançaram muito e com as nossas validações, o céu é o limite.
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
